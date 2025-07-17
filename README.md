@@ -13,6 +13,6 @@ docker pull longjianghu/jdk:17
 
 ### 使用说明
 
-longjianghu/jdk:17 只是更新了时区为上海
+longjianghu/jdk:17 指定时区为上海
 
-longjianghu/jdk:171相比longjianghu/jdk:17版本安装了字体库，适用于需要生成验证码的场景。
+longjianghu/jdk:171 相比 longjianghu/jdk:17 版本安装了字体库，适用于需要生成验证码的场景。
